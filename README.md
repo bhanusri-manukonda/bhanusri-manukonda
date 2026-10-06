@@ -8,10 +8,11 @@
   <a href="https://github.com/bhanusri-manukonda">
     <img src="https://img.shields.io/badge/GitHub-Bhanusri%20Manukonda-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://dulcet-semolina-aac8d1.netlify.app/">
+  <a href="https://dulcet-semolina-aac8d1.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
