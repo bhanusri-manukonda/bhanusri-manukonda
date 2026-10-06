@@ -8,7 +8,7 @@
   <a href="https://github.com/bhanusri-manukonda">
     <img src="https://img.shields.io/badge/GitHub-Bhanusri%20Manukonda-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://dulcet-semolina-aac8d1.netlify.app/" target="_blank">
+  <a href="https://dulcet-semolina-aac8d1.netlify.app/" target="_blank"    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3
