@@ -202,7 +202,7 @@ A personal developer portfolio created to showcase my **skills, projects, techni
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🌐 **[Live Portfolio](https://dulcet-semolina-aac8d1.netlify.app/)**
+🌐 **[Live Portfolio](https://bhanusri-portfolio.netlify.app/)**
 
 ---
 
