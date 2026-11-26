@@ -22,10 +22,10 @@
 
 ---
 
-## 🖥️ `whoami`
+## 🖥️ `who am i`
 
 ```bash
-$ whoami
+$ who am i
 bhanusri-manukonda
 
 $ cat about.txt
