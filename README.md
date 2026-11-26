@@ -1,323 +1,269 @@
-# 👋 Hi, I'm Bhanusri Manukonda
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Developer+%28MERN+%7C+Django%29;Java+%7C+Python+%7C+JavaScript+Developer;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhanusri%20Manukonda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20MERN%20%E2%80%A2%20Django&descSize=17&descAlignY=58" alt="Header banner" />
 
-<p align="center">
-  <a href="https://github.com/bhanusri-manukonda">
-    <img src="https://img.shields.io/badge/GitHub-Bhanusri%20Manukonda-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://dulcet-semolina-aac8d1.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<a href="https://github.com/bhanusri-manukonda">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Solving+problems+with+Data+Structures+%26+Algorithms;MERN+%7C+Django+%7C+REST+APIs;CSE+Undergrad+%E2%80%A2+Class+of+2027" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://bhanusri-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:manukondabhanusri6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/bhanusri-manukonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhanusri-manukonda&label=Profile%20Views&color=2c5364&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-2ea44f?style=flat-square" alt="Open to work" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Bhanusri Manukonda**, a **B.Tech Computer Science & Engineering student (2027 graduate)** at Aditya College of Engineering and Technology, and an aspiring **Software Developer / Full Stack Developer**.
+I'm a **Computer Science & Engineering student (Class of 2027)** at **Aditya College of Engineering and Technology**, aiming for a career as a **Software / Full Stack Developer**.
 
-I have a strong foundation in **Java, Python, Data Structures & Algorithms, and OOP**, and I build full stack web applications using **React.js, Node.js, Express.js, MongoDB, and Django**. I enjoy solving problems, learning new technologies, and turning ideas into practical, real-world applications.
+I like turning ideas into working products: building REST APIs, designing clean database schemas, and shipping responsive interfaces. Alongside development, I sharpen my fundamentals through **Java, Data Structures & Algorithms, and SQL**.
 
-🌱 Currently focusing on **Java, DSA, SQL, and Full Stack Development** while strengthening my **Core Computer Science fundamentals**.
+```java
+public class Bhanusri {
 
-🚀 My goal is to start my career as a **Software / Full Stack Developer**, contribute to real-world projects, and keep growing as a technology professional.
-
-> 💡 **Learn → Practice → Build → Solve → Improve → Grow 🚀**
-
----
-
-# 💼 Experience
-
-### Full Stack Web Development Intern — APSSDC
-📅 May 2025 – Jul 2025
-
-* Developed a **Django-based e-commerce application** using Python, Django, HTML, CSS, Bootstrap, and JavaScript
-* Implemented **user authentication, product management, search, filtering, shopping cart, and order management** with database integration
+    String role       = "Aspiring Software / Full Stack Developer";
+    String education  = "B.Tech CSE @ Aditya College of Engineering and Technology (2023 - 2027)";
+    String[] stack    = {"Java", "Python", "JavaScript", "React", "Node.js", "Django", "MongoDB", "MySQL"};
+    String learning   = "Java + DSA, SQL, Full Stack Development";
+    String goal       = "Build reliable software that solves real problems";
+    String motto      = "Learn -> Practice -> Build -> Solve -> Improve -> Grow";
+}
+```
 
 ---
 
-# 🎓 Education
+## 💼 Experience
 
-| Qualification | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech – Computer Science & Engineering | Aditya College of Engineering and Technology, Surampalem, AP | 2023 – 2027 | CGPA: 7.7 |
-| Intermediate (MPC) | Vikas Junior College, Samisragudem, AP | 2021 – 2023 | 88% |
-| Secondary Education | St Ann's English Medium School, Nidadavole, AP | 2020 – 2021 | 96% |
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</p>
-
-### 🧠 Core Computer Science
-
-<p align="left">
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-1565C0?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-455A64?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge)
-
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="left">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
+<table>
+  <tr>
+    <td width="170"><b>May 2025 - Jul 2025</b></td>
+    <td>
+      <b>Full Stack Web Development Intern</b> — <i>APSSDC</i><br/><br/>
+      • Built a <b>Django e-commerce application</b> with Python, Django, HTML, CSS, Bootstrap, and JavaScript.<br/>
+      • Implemented <b>authentication, product management, search & filtering, shopping cart, and order management</b> with full database integration.
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 🧰 Tech Arsenal
 
-### 📚 Books World — MERN Bookstore Application
+<div align="center">
 
-A full-stack online bookstore with a RESTful API, JWT authentication, and role-based access for users and admins.
+| | |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,js,mysql" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
 
-**Key Features**
+</div>
 
-* 🔑 RESTful API with **JWT authentication**, secure **password hashing**, and **role-based access** (users & admins)
-* 🔍 Search and filtering by **title, author, and category** across a catalog of **50+ books**
-* 💰 Discount pricing system
-* 🛒 Shopping cart and order management
-* 🛠️ **Admin dashboard** for book, user, and order management
-* ✅ Form validation and error handling
-
-**Tech Stack**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-🔗 **[View Repository](https://github.com/bhanusri-manukonda/books-world-online-shopping-)**
+**Core CS:** &nbsp; `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `REST APIs`
 
 ---
 
-### 📖 Book Store Management System — Django
+## 🚀 Featured Projects
 
-An admin-only **inventory, sales, and rental application** built with a modular **MVT architecture** and a relational schema in MySQL.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features**
+### 📚 Books World
+**MERN Bookstore Application**
 
-* 📦 Inventory, sales, and rental management
-* 🧮 Automated **rental charge, damage fine, and refund** calculations
-* 🧾 Printable transaction receipts
-* 🗄️ Relational database design with MySQL
+Full-stack bookstore with secure auth, a rich catalog, and a complete admin dashboard.
 
-**Tech Stack**
+- 🔑 REST API with **JWT auth**, password hashing & **role-based access**
+- 🔍 Search & filter by title, author, category (**50+ books**)
+- 🛒 Cart, orders & **discount pricing** system
+- 🛠️ Admin dashboard for books, users & orders
+- ✅ Form validation & robust error handling
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<!-- Add your repository link below -->
-🔗 **[View Repository](YOUR_BOOKSTORE_MANAGEMENT_REPOSITORY_URL)**
+[**🔗 View Repository**](https://github.com/bhanusri-manukonda/books-world-online-shopping-)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔍 NetTool — Network Diagnostic Toolkit
+### 📖 Book Store Management System
+**Django Inventory, Sales & Rental App**
 
-A Python **command-line network diagnostic toolkit** built by applying core Computer Networks concepts with socket programming.
+Admin-only system with a modular **MVT architecture** and a relational MySQL schema.
 
-**Key Features**
+- 📦 Inventory, sales & rental management
+- 🧮 Automated **rental charge, damage fine & refund** calculations
+- 🧾 Printable transaction receipts
+- 🗄️ Relational schema design in MySQL
 
-* 📡 **Ping**, **port scanning**, **DNS lookup**, **HTTP checks**, and **traceroute**
-* 🔌 Socket-based network operations
-* 🛠️ Analyze connectivity, check service availability, and troubleshoot common network issues
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Tech Stack**
+<!-- Replace with your repository link -->
+[**🔗 View Repository**](YOUR_BOOKSTORE_MANAGEMENT_REPOSITORY_URL)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Sockets](https://img.shields.io/badge/Sockets-00897B?style=flat)
-![CLI](https://img.shields.io/badge/CLI-333333?style=flat&logo=windows-terminal&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Add your repository link below -->
-🔗 **[View Repository](YOUR_NETTOOL_REPOSITORY_URL)**
+### 🔍 NetTool
+**Network Diagnostic Toolkit**
 
----
+A Python CLI toolkit built on core **Computer Networks** concepts and socket programming.
+
+- 📡 **Ping**, **port scanning**, **DNS lookup**, **HTTP checks**, **traceroute**
+- 🔌 Socket-based network operations
+- 🛠️ Analyze connectivity & troubleshoot service availability
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sockets](https://img.shields.io/badge/-Sockets-00897B?style=flat-square)
+![CLI](https://img.shields.io/badge/-CLI-333333?style=flat-square&logo=windows-terminal&logoColor=white)
+
+<!-- Replace with your repository link -->
+[**🔗 View Repository**](YOUR_NETTOOL_REPOSITORY_URL)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
+**Developer Portfolio Website**
 
-A personal developer portfolio created to showcase my **skills, projects, technical journey, and professional profile**.
+A responsive site showcasing my skills, projects, technical journey, and professional profile.
 
-**Tech Stack**
+- 🎨 Clean, responsive layout
+- 📂 Project showcase & skills overview
+- 🔗 Direct links to GitHub & LinkedIn
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🌐 **[Live Portfolio](https://bhanusri-portfolio.netlify.app/)**
+[**🌐 Live Site**](https://bhanusri-portfolio.netlify.app/)
 
----
+</td>
+</tr>
+</table>
 
-# 📜 Certifications
+<details>
+<summary><b>🧭 How Books World works (architecture overview)</b></summary>
 
-* 🐍 **Python Developer Certification** — freeCodeCamp
-* 🌐 **Full Stack Web Development Certification** — MERN Stack
-* 🌐 **Full Stack Web Development Certification** — Django
+<br/>
 
----
+```mermaid
+flowchart LR
+    A[React Client] -->|HTTPS / REST| B[Express + Node.js API]
+    B --> C{JWT Auth and<br/>Role Check}
+    C -->|User| D[Browse, Search, Cart, Orders]
+    C -->|Admin| E[Manage Books, Users, Orders]
+    D --> F[(MongoDB)]
+    E --> F
+```
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhanusri-manukonda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bhanusri's GitHub Stats" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanusri-manukonda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanusri-manukonda&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</p>
+</details>
 
 ---
 
-# 🌱 Currently Learning
+## 🎓 Education
 
-<p align="left">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-</p>
-
-### 📚 Current Focus
-
-* ☕ Java & Object-Oriented Programming
-* 🧩 Data Structures & Algorithms
-* 🗄️ SQL & Database Management
-* 🌐 Full Stack Web Development
-* 🧠 Core CS Fundamentals (DBMS, Operating Systems, Computer Networks)
-* 💡 Problem Solving & Coding Practice
+| Year | Qualification | Institution | Score |
+|:---:|:---|:---|:---:|
+| **2023 - 2027** | B.Tech, Computer Science & Engineering | Aditya College of Engineering and Technology, Surampalem, AP | **CGPA 7.7** |
+| 2021 - 2023 | Intermediate (MPC) | Vikas Junior College, Samisragudem, AP | **88%** |
+| 2020 - 2021 | Secondary Education | St Ann's English Medium School, Nidadavole, AP | **96%** |
 
 ---
 
-# 🎯 Career Goals
+## 📜 Certifications
 
-* 🚀 Strengthen programming and problem-solving fundamentals
-* 🧩 Solve **100+ DSA problems**
-* 💻 Build and deploy more real-world applications
-* 🌐 Improve Full Stack Development skills
-* 🗄️ Strengthen SQL and database knowledge
-* 🤝 Contribute to meaningful software projects
-* 💼 Start my career as a **Software Developer / Full Stack Developer**
+<div align="center">
 
----
+![freeCodeCamp](https://img.shields.io/badge/Python%20Developer-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![MERN](https://img.shields.io/badge/Full%20Stack%20Web%20Dev-MERN%20Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Full%20Stack%20Web%20Dev-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-# 📈 My Development Journey
-
-<p align="center">
-
-### **Learn → Practice → Build → Solve → Improve → Grow 🚀**
-
-</p>
-
-I use GitHub to document my **projects, coding practice, experiments, and continuous learning journey**.
+</div>
 
 ---
 
-# 🤝 Let's Connect
+## 🌱 Currently Focused On
 
-<p align="left">
-
-<a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://dulcet-semolina-aac8d1.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:manukondabhanusri6@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/bhanusri-manukonda">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
+| Focus Area | Details |
+|:---|:---|
+| ☕ **Java & OOP** | Strengthening object-oriented design and core Java |
+| 🧩 **DSA** | Working towards **100+ solved problems** |
+| 🗄️ **SQL & DBMS** | Query writing, schema design, normalization |
+| 🌐 **Full Stack** | Deepening React, Node.js, MongoDB, and Django skills |
+| 🧠 **Core CS** | Operating Systems, Computer Networks, DBMS |
 
 ---
 
-## 💡 Developer Mindset
+## 🎯 Roadmap
 
-> **"Keep learning, keep building, and keep improving."**
+- [x] Build full stack projects (MERN & Django)
+- [x] Complete a Full Stack Web Development internship
+- [x] Earn Python and Full Stack certifications
+- [ ] Solve **100+ DSA problems**
+- [ ] Deploy more real-world applications
+- [ ] Strengthen SQL and database design
+- [ ] Contribute to meaningful software projects
+- [ ] Start my career as a **Software / Full Stack Developer**
 
 ---
 
-<p align="center">
+## 📊 GitHub Analytics
 
-### ⭐ Thanks for visiting my GitHub profile!
+<div align="center">
 
-**Feel free to explore my repositories and follow my journey as I grow as a developer. 🚀**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhanusri-manukonda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanusri-manukonda&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=bhanusri-manukonda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanusri-manukonda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **internships and entry-level Software / Full Stack Developer roles**. Feel free to reach out!
+
+<a href="http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:manukondabhanusri6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://bhanusri-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+> *"Keep learning, keep building, and keep improving."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" alt="Footer" />
+
+</div>
